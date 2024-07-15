@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded', function() { console.log('Lightn Bot is ready to assist!'); });
